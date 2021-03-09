@@ -31,7 +31,7 @@ let s:nord10_gui = "#5E81AC"
 let s:nord11_gui = "#e43984"
 let s:nord12_gui = "#f07374"
 let s:nord13_gui = "#f5c96a"
-let s:nord14_gui = "#6cc793"
+let s:nord14_gui = "#5FD7A7"
 let s:nord15_gui = "#b582e6"
 
 let s:nord1_term = "0"
